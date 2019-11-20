@@ -1,0 +1,36 @@
+﻿  MyForm.cpp
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(131): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(132): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(140): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(144): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(148): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(152): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\tstack.h(156): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+c:\users\sda\desktop\graphics-emptyproject-master\myform.cpp(8): error C2976: std::array: слишком мало аргументов шаблон
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(512): note:  см. объявление "std::array"
+c:\users\sda\desktop\graphics-emptyproject-master\myform.cpp(8): error C3699: ^: это косвенное обращение невозможно использовать для типа "std::array"
+  c:\users\sda\desktop\graphics-emptyproject-master\myform.cpp(8): note: для продолжения работы компилятор заменил "^" на "*"
